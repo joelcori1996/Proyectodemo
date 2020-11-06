@@ -12,9 +12,9 @@ app = Flask(__name__)
 
 ##
 app.config['MYSQL_HOST'] = 'klbcedmmqp7w17ik.cbetxkdyhwsb.us-east-1.rds.amazonaws.com'
-app.config['MYSQL_USER'] = 'fvvu4v5mdlms6hri'
-app.config['MYSQL_PASSWORD'] = 'b0dap63709nnejsf'
-app.config['MYSQL_DB'] = 'vejbs8y4r6k6szj3'
+app.config['MYSQL_USER'] = 'opjxwks2duq0zzvn'
+app.config['MYSQL_PASSWORD'] = 'svvy3izki2iy091o'
+app.config['MYSQL_DB'] = 'g3wb78wfphr3lb7z' 
 
 ##
 
